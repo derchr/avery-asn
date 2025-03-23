@@ -25,6 +25,7 @@ labelInfo = {
     # 22x 32mm x 10mm mini labels
     3044: ( 2, 11, (32, 10), (2,2), (1, 1), (66.5*mm, 120.5*mm)),
 
+    4730: ( 10, 27, (17.8*mm, 10*mm), (2.5*mm, 0), (4.5*mm, 13.5*mm), A4),
     # 189x 25.4mm x 10mm mini labels
     4731: ( 7, 27, (25.4*mm, 10*mm), (2.5*mm, 0), (9*mm, 13.5*mm), A4),
     # 2.6 x 1 address labels
